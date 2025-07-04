@@ -1,1 +1,1 @@
-empty js
+Empty
